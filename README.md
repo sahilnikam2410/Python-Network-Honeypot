@@ -19,3 +19,8 @@ This project is a **Low-Interaction Honeypot** designed to detect and log unauth
 
 ## ⚠️ Disclaimer
 This tool is for **Educational and Defensive purposes only**. It is designed to run on own infrastructure to detect intruders.
+
+
+root@classified-mainframe:~# exit
+> [!] SESSION TERMINATED.
+> [!] GOODBYE, SAHIL_NIKAM.
